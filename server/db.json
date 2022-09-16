@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "email": "user@example.com",
+      "password": "$2a$10$prpGbbpaxphlhH7mcoeU2eva9j4JcZYzmXhKKP6XuUyyAAILgNe.C",
+      "id": 1
+    },
+    {
+      "email": "harrypotter@hp.com",
+      "password": "$2a$10$.PjvJBA2VozTfJCWyFuwKeGgWGeVyBiOjT2Y1QVdvtqe6AiK.NcyG",
+      "id": 2
+    }
+  ],
+  "contacts": [
+    {
+      "surname": "Ivanov",
+      "name": "Ivan",
+      "id": 1,
+      "userId": "1"
+    },
+    {
+      "surname": "Petrov",
+      "name": "Petr",
+      "id": 2,
+      "userId": "1"
+    },
+    {
+      "surname": "Potter",
+      "name": "Harry",
+      "id": 3,
+      "userId": "2"
+    },
+    {
+      "surname": "Potter",
+      "name": "James",
+      "id": 4,
+      "userId": "2"
+    },
+    {
+      "surname": "Chidorov",
+      "name": "Sergey",
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "surname": "Weasley",
+      "name": "Ronald",
+      "userId": "2",
+      "id": 6
+    },
+    {
+      "surname": "Potter",
+      "name": "Lily",
+      "userId": "2",
+      "id": 7
+    },
+    {
+      "surname": "Galkin",
+      "name": "Maxim",
+      "userId": "1",
+      "id": 8
+    },
+    {
+      "surname": "Granger",
+      "name": "Hermione",
+      "userId": "2",
+      "id": 9
+    },
+    {
+      "surname": "Ravil ",
+      "name": "Akzamutdinov",
+      "userId": "1",
+      "id": 10
+    }
+  ]
+}
